@@ -132,6 +132,6 @@ python automated_demo.py
 ---
 
 ## Further Reading
-See [RSA_AND_CA_EXPLAINED.md]() for a deep dive into the math, protocol, and security analysis.
+See [RSA_AND_CA_EXPLAINED.md](https://github.com/Tawfiq-Rahman/MITM-Guard-Protocol/blob/main/RSA_AND_CA_EXPLAINED.md) for a deep dive into the math, protocol, and security analysis.
 
 ---
